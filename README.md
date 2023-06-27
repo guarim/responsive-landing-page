@@ -1,5 +1,5 @@
 # Responsive Landing Portfolio
-## [Watch it me on youtube](https://www.youtube.com/watch?v=MordD7oMPDI)
+## [Watch me on youtube](https://www.youtube.com/watch?v=MordD7oMPDI)
 ### Responsive Landing Portfolio MG
 
 - Beautiful portfolio landing page using HTML, CSS and JAVASCRIPT.
